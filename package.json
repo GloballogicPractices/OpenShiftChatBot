@@ -1,7 +1,7 @@
 {
   "name": "hubot-openshift-slack-bot",
   "description": "Intracts with OpenShift cli and fetch data.",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "author": "Rohit Sharma <rohitrsh@gmail.com>",
   "license": "MIT",
   "keywords": [
